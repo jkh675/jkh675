@@ -1,5 +1,4 @@
 HongKong Student </br>
-age:13y  </br>
 sex:m  </br>
 height:164 </br>
 lang:lua,c/c++,html,css,js,java,rust,python,vb,c#,kotlin,mysql,php </br>
