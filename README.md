@@ -1,3 +1,3 @@
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkh675&show_icons=true&theme=onedark)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jkh675&show_icons=true&theme=onedark&count_private=true)
   <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jkh675&hide_title=true&layout=compact)
