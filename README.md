@@ -1,1 +1,1 @@
-lang:lua,c/c++,html,css,js,java,rust,python,vb,c#,kotlin,mysql,php </br>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
